@@ -1,3 +1,5 @@
 /imx-contracts
 /imx-examples
 /nft-metadata
+/client/node_modules
+/server/node_modules
