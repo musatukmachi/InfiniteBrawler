@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {
+    "@types/express": "^4.17.14",
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "@imtbl/core-sdk": "^1.0.1",
+    "@imtbl/imx-contracts": "^1.0.1",
+    "express": "^4.18.2",
+    "typescript": "^4.8.4"
+  },
+  "scripts": {
+    "start": "tsc server.ts && node server.js",
+    "dev": "tsc server.ts && nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

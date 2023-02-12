@@ -1,0 +1,8 @@
+{
+    "name": "Samurai Mack",
+    "description": "A Samurai",
+    "image_url":"https://gateway.pinata.cloud/ipfs/QmPjinCpuxjYiLNv9WwMQiciNTTGvUXY4161RLS4FophLC",
+    "attack": 123,
+    "collectable": true,
+    "class": "EnumValue1"
+}

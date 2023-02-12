@@ -1,0 +1,8 @@
+{
+    "name": "Kenji",
+    "description": "A Samurai",
+    "image_url":"https://gateway.pinata.cloud/ipfs/QmVuJn9y7W5gMg1TA1L1f4e5Jic3e8Si4HJnmRfWNMtGBe",
+    "attack": 223,
+    "collectable": true,
+    "class": "EnumValue2"
+}

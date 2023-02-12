@@ -1,0 +1,16 @@
+{
+  "name": "web3-fightinggame",
+  "version": "0.1.0",
+  "description": "Fighting Game where characters and arenas can be imported by users and are tradable as NFTs",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc main.ts --outDir dist/js --strictNullChecks false && browserify dist/js/main.js > dist/js/bundle.js"
+  },
+  "author": "Moesa Mahdi",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "gsap": "^3.11.4",
+    "typescript": "^4.9.5"
+  }
+}
